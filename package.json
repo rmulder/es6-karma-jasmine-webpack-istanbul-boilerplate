@@ -1,7 +1,7 @@
 {
   "name": "es6-karma-jasmine-webpack-istanbul-boilerplate",
   "version": "0.1.0",
-  "description": "Boilerplate for ES6 client-based library. Uses Babel and webpack for transpiling and building, Karma and Jasmine for unit testing, and Istanbul/Isparta for code coverage.",
+  "description": "Boilerplate for ES6 client-based library. Uses Babel and webpack for transpiling and building, Karma and Jasmine for unit testing, and Istanbul for code coverage.",
   "main": "src/index.js",
   "repository": {
     "type": "git",
