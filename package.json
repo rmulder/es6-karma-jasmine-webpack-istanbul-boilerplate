@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zyml/es6-karma-jasmine-webpack-istanbul-boilerplate"
+    "url": "https://github.com/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate"
   },
   "scripts": {
     "start": "webpack-dev-server --hot --inline",
