@@ -19,7 +19,7 @@ module.exports = {
 		]
 	},
 	plugins: [
-		new HtmlWebpackPlugin({ title: 'Tree shaking' }),
+		new HtmlWebpackPlugin({ title: 'es6 boilerplate' }),
 		new webpack.SourceMapDevToolPlugin({
 				filename: '[file].map'
 			})
