@@ -1,6 +1,6 @@
 # ES6 Karma Jasmine Webpack Istanbul Boilerplate
 
-[![devDependency Status](https://david-dm.org/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate?type=dev)](https://david-dm.org/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate?type=dev)
+[![devDependency Status](https://david-dm.org/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate/dev-status.svg)](https://david-dm.org/dcroitoru/es6-karma-jasmine-webpack-istanbul-boilerplate/dev-status.svg)
 
 Boilerplate for building a client-based JavaScript library in ES6 using the following components:
 
