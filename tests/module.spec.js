@@ -6,7 +6,7 @@ describe('module', function () {
     const hi = sayHi();
 
     it('should display proper hello', function () {
-        expect(hello).toBe('Hello World');
+        expect(hello).toBe('Hello World!');
     });
 
     it('should display proper hi', function () {
