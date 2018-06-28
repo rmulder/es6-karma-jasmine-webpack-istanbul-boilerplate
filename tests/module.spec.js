@@ -1,7 +1,7 @@
 import { sayHello } from '../src/module';
 import { sayHi } from '../src/module2';
-describe('module', function () {
 
+describe('module', function () {
     const hello = sayHello('World');
     const hi = sayHi();
 
@@ -12,5 +12,4 @@ describe('module', function () {
     it('should display proper hi', function () {
         expect(hi).toBe('hi');
     });
-
 });
